@@ -1,8 +1,8 @@
-# Welcome To My GitHub!
+# Welcome To My GitHub Profile!
 
-## CyberSecurity Projects: 
+## 👨🏾‍💻 CyberSecurity Projects: 
 
-##### OpenVAS Vulnerability Management
+#### OpenVAS Vulnerability Management
 
 https://github.com/Loyal2IT/OpenVAS-Vulnerability-Management.git
 
